@@ -1,17 +1,17 @@
 export default function PrivacyPolicy() {
     return (
         <div className="bg-gray-50 min-h-screen py-10">
-        <div className="container mx-auto px-6 lg:px-12 max-w-4xl bg-white shadow-md rounded-lg p-8">
-               <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">Privacy Policy</h1>
+            <div className="container mx-auto px-6 lg:px-12 max-w-4xl bg-white shadow-md rounded-lg p-8">
+                <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">Privacy Policy</h1>
                 <p className="text-gray-500 mb-6 text-center">
                     Effective Date: <span className="font-semibold">24 Nov 2025</span>
                 </p>
 
                 <p className="text-gray-600 mb-4">
-                    Morfozz Ltd. ("we", "our", or "us") is committed to protecting and
+                    Morfozz Ltd. (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is committed to protecting and
                     respecting your privacy. This Privacy Policy explains how we collect,
-                    use, and protect your information when you use <span className="font-semibold">Learn Driving</span> (the
-                    "App").
+                    use, and protect your information when you use &lt;span className=&quot;font-semibold&quot;&gt;Learn Driving&lt;/span&gt; (the
+                    &quot;App&quot;).
                 </p>
 
                 <h2 className="text-xl font-semibold text-gray-800 mt-6 mb-3">

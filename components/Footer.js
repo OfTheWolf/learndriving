@@ -90,7 +90,7 @@ export default function Footer({ copyrightText }) {
       <div className="flex space-x-2 py-4">
         <Link href="/terms">Terms and Conditions</Link>
         <span>•</span>
-        <Link href="/privacy">Privacy Policy</Link>
+        <Link href="/privacy-policy">Privacy Policy</Link>
       </div>
     </footer>
   );
