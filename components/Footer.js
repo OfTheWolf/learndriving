@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 const sunIcon = (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -84,6 +86,12 @@ export default function Footer({ copyrightText }) {
         {copyrightText}
       </p>
       <ThemeSwitcher />
+
+      <div className="flex space-x-2 py-4">
+        <Link href="/terms">Terms and Conditions</Link>
+        <span>•</span>
+        <Link href="/privacy">Privacy Policy</Link>
+      </div>
     </footer>
   );
 }
