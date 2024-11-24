@@ -11,7 +11,7 @@ export default function PrivacyPage() {
   
           <section className="mb-6">
             <p className="text-gray-600">
-              Morfozz Ltd. built the Baglama Tuner app as an Ad Supported app.
+              Morfozz Ltd. built the Learn Driving app as a Freemium app.
               This <span className="font-semibold">SERVICE</span> is provided by
               Morfozz Ltd. at no cost and is intended for use as is.
             </p>
@@ -56,7 +56,7 @@ export default function PrivacyPage() {
             <p className="text-gray-600">
               Cookies are files with a small amount of data that are commonly used
               as anonymous unique identifiers. These are sent to your browser
-              from the websites that you visit and are stored on your device's
+              from the websites that you visit and are stored on your device&apos;s
               internal memory.
             </p>
             <p className="text-gray-600 mt-4">
